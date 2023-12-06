@@ -1,0 +1,6 @@
+weather-app:
+  valid:
+    cities: Cluj-Napoca,Bucuresti,Timisoara,Constanta,Baia-Mare,Arad
+  external-weather-enabled: true
+  external-weather-api: https://8a5b7f27-5ae0-4fe2-9f31-ed20df36afa4.mock.pstmn.io/
+

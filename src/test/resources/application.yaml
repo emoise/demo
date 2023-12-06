@@ -1,0 +1,5 @@
+weather-app:
+  external-weather-enabled: false
+  external-weather-api: dummy
+  valid:
+    cities: Cluj-Napoca,Bucuresti,Timisoara,Constanta,Baia-Mare,Arad
